@@ -1,19 +1,17 @@
 <template>
-  <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
+  <v-app>
     <router-view/>
-  </div>
+  </v-app>
 </template>
 
 <style lang="stylus">
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap');
+
 #app
-  font-family Avenir, Helvetica, Arial, sans-serif
+  // font-family Avenir, Helvetica, Arial, sans-serif
+  font-family Montserrat
   -webkit-font-smoothing antialiased
   -moz-osx-font-smoothing grayscale
   text-align center
   color #2c3e50
-  margin-top 60px
 </style>

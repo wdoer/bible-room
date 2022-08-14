@@ -1,0 +1,464 @@
+[
+  {
+    "book": 1,
+    "chronorder": 1,
+    "name": "Бытие",
+    "chapters": 50
+  },
+  {
+    "book": 2,
+    "chronorder": 3,
+    "name": "Исход",
+    "chapters": 40
+  },
+  {
+    "book": 3,
+    "chronorder": 4,
+    "name": "Левит",
+    "chapters": 27
+  },
+  {
+    "book": 4,
+    "chronorder": 5,
+    "name": "Числа",
+    "chapters": 36
+  },
+  {
+    "book": 5,
+    "chronorder": 6,
+    "name": "Второзаконие",
+    "chapters": 34
+  },
+  {
+    "book": 6,
+    "chronorder": 7,
+    "name": "Иисус Навин",
+    "chapters": 24
+  },
+  {
+    "book": 7,
+    "chronorder": 8,
+    "name": "Книга Судей",
+    "chapters": 21
+  },
+  {
+    "book": 8,
+    "chronorder": 9,
+    "name": "Руфь",
+    "chapters": 4
+  },
+  {
+    "book": 9,
+    "chronorder": 10,
+    "name": "1-я Царств",
+    "chapters": 31
+  },
+  {
+    "book": 10,
+    "chronorder": 11,
+    "name": "2-я Царств",
+    "chapters": 24
+  },
+  {
+    "book": 11,
+    "chronorder": 15,
+    "name": "3-я Царств",
+    "chapters": 22
+  },
+  {
+    "book": 12,
+    "chronorder": 28,
+    "name": "4-я Царств",
+    "chapters": 25
+  },
+  {
+    "book": 13,
+    "chronorder": 12,
+    "name": "1-я Паралипоменон",
+    "chapters": 29
+  },
+  {
+    "book": 14,
+    "chronorder": 16,
+    "name": "2-я Паралипоменон",
+    "chapters": 36
+  },
+  {
+    "book": 15,
+    "chronorder": 37,
+    "name": "Ездра",
+    "chapters": 10
+  },
+  {
+    "book": 16,
+    "chronorder": 38,
+    "name": "Неемия",
+    "chapters": 13
+  },
+  {
+    "book": 17,
+    "chronorder": 36,
+    "name": "Есфирь",
+    "chapters": 10
+  },
+  {
+    "book": 18,
+    "chronorder": 2,
+    "name": "Иов",
+    "chapters": 42
+  },
+  {
+    "book": 19,
+    "chronorder": 13,
+    "name": "Псалтирь",
+    "chapters": 151
+  },
+  {
+    "book": 20,
+    "chronorder": 17,
+    "name": "Притчи",
+    "chapters": 31
+  },
+  {
+    "book": 21,
+    "chronorder": 18,
+    "name": "Екклесиаст",
+    "chapters": 12
+  },
+  {
+    "book": 22,
+    "chronorder": 14,
+    "name": "Песни Песней",
+    "chapters": 8
+  },
+  {
+    "book": 23,
+    "chronorder": 25,
+    "name": "Исаия",
+    "chapters": 66
+  },
+  {
+    "book": 24,
+    "chronorder": 29,
+    "name": "Иеремия",
+    "chapters": 52
+  },
+  {
+    "book": 25,
+    "chronorder": 30,
+    "name": "Плач Иеремии",
+    "chapters": 5
+  },
+  {
+    "book": 26,
+    "chronorder": 32,
+    "name": "Иезекииль",
+    "chapters": 48
+  },
+  {
+    "book": 27,
+    "chronorder": 33,
+    "name": "Даниил",
+    "chapters": 14
+  },
+  {
+    "book": 28,
+    "chronorder": 23,
+    "name": "Осия",
+    "chapters": 14
+  },
+  {
+    "book": 29,
+    "chronorder": 20,
+    "name": "Иоиль",
+    "chapters": 3
+  },
+  {
+    "book": 30,
+    "chronorder": 21,
+    "name": "Амос",
+    "chapters": 9
+  },
+  {
+    "book": 31,
+    "chronorder": 31,
+    "name": "Авдий",
+    "chapters": 1
+  },
+  {
+    "book": 32,
+    "chronorder": 19,
+    "name": "Иона",
+    "chapters": 4
+  },
+  {
+    "book": 33,
+    "chronorder": 22,
+    "name": "Михей",
+    "chapters": 7
+  },
+  {
+    "book": 34,
+    "chronorder": 24,
+    "name": "Наум",
+    "chapters": 3
+  },
+  {
+    "book": 35,
+    "chronorder": 27,
+    "name": "Аввакум",
+    "chapters": 3
+  },
+  {
+    "book": 36,
+    "chronorder": 26,
+    "name": "Софония",
+    "chapters": 3
+  },
+  {
+    "book": 37,
+    "chronorder": 34,
+    "name": "Аггей",
+    "chapters": 2
+  },
+  {
+    "book": 38,
+    "chronorder": 35,
+    "name": "Захария",
+    "chapters": 14
+  },
+  {
+    "book": 39,
+    "chronorder": 39,
+    "name": "Малахия",
+    "chapters": 4
+  },
+  {
+    "book": 40,
+    "chronorder": 40,
+    "name": "От Матфея",
+    "chapters": 28
+  },
+  {
+    "book": 41,
+    "chronorder": 58,
+    "name": "От Марка",
+    "chapters": 16
+  },
+  {
+    "book": 42,
+    "chronorder": 52,
+    "name": "От Луки",
+    "chapters": 24
+  },
+  {
+    "book": 43,
+    "chronorder": 66,
+    "name": "От Иоанна",
+    "chapters": 21
+  },
+  {
+    "book": 44,
+    "chronorder": 54,
+    "name": "Деяния",
+    "chapters": 28
+  },
+  {
+    "book": 59,
+    "chronorder": 48,
+    "name": "Иакова",
+    "chapters": 5
+  },
+  {
+    "book": 60,
+    "chronorder": 56,
+    "name": "1-е Петра",
+    "chapters": 5
+  },
+  {
+    "book": 61,
+    "chronorder": 60,
+    "name": "2-е Петра",
+    "chapters": 3
+  },
+  {
+    "book": 62,
+    "chronorder": 61,
+    "name": "1-е Иоанна",
+    "chapters": 5
+  },
+  {
+    "book": 63,
+    "chronorder": 62,
+    "name": "2-е Иоанна",
+    "chapters": 1
+  },
+  {
+    "book": 64,
+    "chronorder": 63,
+    "name": "3-е Иоанна",
+    "chapters": 1
+  },
+  {
+    "book": 65,
+    "chronorder": 64,
+    "name": "Иуда",
+    "chapters": 1
+  },
+  {
+    "book": 45,
+    "chronorder": 45,
+    "name": "К Римлянам",
+    "chapters": 16
+  },
+  {
+    "book": 46,
+    "chronorder": 44,
+    "name": "1-е Коринфянам",
+    "chapters": 16
+  },
+  {
+    "book": 47,
+    "chronorder": 45,
+    "name": "2-е Коринфянам",
+    "chapters": 13
+  },
+  {
+    "book": 48,
+    "chronorder": 41,
+    "name": "К Галатам",
+    "chapters": 6
+  },
+  {
+    "book": 49,
+    "chronorder": 47,
+    "name": "К Ефесянам",
+    "chapters": 6
+  },
+  {
+    "book": 50,
+    "chronorder": 49,
+    "name": "К Филиппийцам",
+    "chapters": 4
+  },
+  {
+    "book": 51,
+    "chronorder": 50,
+    "name": "К Колоссянам",
+    "chapters": 4
+  },
+  {
+    "book": 52,
+    "chronorder": 42,
+    "name": "1-е Фессалоникийцам",
+    "chapters": 5
+  },
+  {
+    "book": 53,
+    "chronorder": 43,
+    "name": "2-е Фессалоникийцам",
+    "chapters": 3
+  },
+  {
+    "book": 54,
+    "chronorder": 55,
+    "name": "1-е Тимофею",
+    "chapters": 6
+  },
+  {
+    "book": 55,
+    "chronorder": 59,
+    "name": "2-е Тимофею",
+    "chapters": 4
+  },
+  {
+    "book": 56,
+    "chronorder": 57,
+    "name": "К Титу",
+    "chapters": 3
+  },
+  {
+    "book": 57,
+    "chronorder": 51,
+    "name": "К Филимону",
+    "chapters": 1
+  },
+  {
+    "book": 58,
+    "chronorder": 53,
+    "name": "К Евреям",
+    "chapters": 13
+  },
+  {
+    "book": 66,
+    "chronorder": 66,
+    "name": "Откровение",
+    "chapters": 22
+  },
+  {
+    "book": 67,
+    "chronorder": 67,
+    "name": "2 кн. Ездры",
+    "chapters": 9
+  },
+  {
+    "book": 68,
+    "chronorder": 68,
+    "name": "Товит",
+    "chapters": 14
+  },
+  {
+    "book": 69,
+    "chronorder": 69,
+    "name": "Иудифь",
+    "chapters": 16
+  },
+  {
+    "book": 70,
+    "chronorder": 70,
+    "name": "Премудрость Соломона",
+    "chapters": 19
+  },
+  {
+    "book": 71,
+    "chronorder": 71,
+    "name": "Сирах",
+    "chapters": 51
+  },
+  {
+    "book": 72,
+    "chronorder": 72,
+    "name": "Послание Иеремии",
+    "chapters": 1
+  },
+  {
+    "book": 73,
+    "chronorder": 73,
+    "name": "Варух",
+    "chapters": 5
+  },
+  {
+    "book": 74,
+    "chronorder": 74,
+    "name": "1 кн. Маккавейская",
+    "chapters": 16
+  },
+  {
+    "book": 75,
+    "chronorder": 75,
+    "name": "2 кн. Маккавейская",
+    "chapters": 15
+  },
+  {
+    "book": 76,
+    "chronorder": 76,
+    "name": "3 кн. Маккавейская",
+    "chapters": 7
+  },
+  {
+    "book": 77,
+    "chronorder": 77,
+    "name": "3 кн. Ездры",
+    "chapters": 16
+  }
+]

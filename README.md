@@ -1,4 +1,4 @@
-# bible-room-actual
+# Great online bible solution for presentations
 
 ## Project setup
 ```
